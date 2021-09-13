@@ -1,0 +1,26 @@
+MANUAL GIT
+-----------
+**Subir Proyecto por Primera Vez**
+git init
+git status
+git add .
+git commit -m "version"
+git config --global user.email "saulmallqui1999@gmail.com"
+git config --global user.name "Saul"
+git commit -m "version"
+git branch -M main
+git remote add origin https://github.com/SaulEnriqueX/SesaSolar.git
+git push -u origin main
+
+**Realizar Cambios**
+git status
+git add .
+git commit -m "version"
+git push -u origin main
+
+
+
+git log
+
+
+
